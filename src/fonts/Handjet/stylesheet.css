@@ -1,0 +1,108 @@
+@font-face {
+    font-family: 'Handjet Circle Double';
+    src: url('HandjetCircleDouble-Semibold.eot');
+    src: local('Handjet Circle Double Semibold'), local('HandjetCircleDouble-Semibold'),
+        url('HandjetCircleDouble-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('HandjetCircleDouble-Semibold.woff2') format('woff2'),
+        url('HandjetCircleDouble-Semibold.woff') format('woff'),
+        url('HandjetCircleDouble-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Handjet Heart Double';
+    src: url('HandjetHeartDouble-Extrabold.eot');
+    src: local('Handjet Heart Double Extrabold'), local('HandjetHeartDouble-Extrabold'),
+        url('HandjetHeartDouble-Extrabold.eot?#iefix') format('embedded-opentype'),
+        url('HandjetHeartDouble-Extrabold.woff2') format('woff2'),
+        url('HandjetHeartDouble-Extrabold.woff') format('woff'),
+        url('HandjetHeartDouble-Extrabold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Handjet Circle';
+    src: url('HandjetCircle-Black.eot');
+    src: local('Handjet Circle Black'), local('HandjetCircle-Black'),
+        url('HandjetCircle-Black.eot?#iefix') format('embedded-opentype'),
+        url('HandjetCircle-Black.woff2') format('woff2'),
+        url('HandjetCircle-Black.woff') format('woff'),
+        url('HandjetCircle-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Handjet';
+    src: url('Handjet-Regular.eot');
+    src: local('Handjet Regular'), local('Handjet-Regular'),
+        url('Handjet-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Handjet-Regular.woff2') format('woff2'),
+        url('Handjet-Regular.woff') format('woff'),
+        url('Handjet-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Handjet Circle Double';
+    src: url('HandjetCircleDouble-Thin.eot');
+    src: local('Handjet Circle Double Thin'), local('HandjetCircleDouble-Thin'),
+        url('HandjetCircleDouble-Thin.eot?#iefix') format('embedded-opentype'),
+        url('HandjetCircleDouble-Thin.woff2') format('woff2'),
+        url('HandjetCircleDouble-Thin.woff') format('woff'),
+        url('HandjetCircleDouble-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Handjet Flower Double';
+    src: url('HandjetFlowerDouble-Medium.eot');
+    src: local('Handjet Flower Double Medium'), local('HandjetFlowerDouble-Medium'),
+        url('HandjetFlowerDouble-Medium.eot?#iefix') format('embedded-opentype'),
+        url('HandjetFlowerDouble-Medium.woff2') format('woff2'),
+        url('HandjetFlowerDouble-Medium.woff') format('woff'),
+        url('HandjetFlowerDouble-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Handjet Circle';
+    src: url('HandjetCircle-Bold.eot');
+    src: local('Handjet Circle Bold'), local('HandjetCircle-Bold'),
+        url('HandjetCircle-Bold.eot?#iefix') format('embedded-opentype'),
+        url('HandjetCircle-Bold.woff2') format('woff2'),
+        url('HandjetCircle-Bold.woff') format('woff'),
+        url('HandjetCircle-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Handjet Circle';
+    src: url('HandjetCircle-Extralight.eot');
+    src: local('Handjet Circle Extralight'), local('HandjetCircle-Extralight'),
+        url('HandjetCircle-Extralight.eot?#iefix') format('embedded-opentype'),
+        url('HandjetCircle-Extralight.woff2') format('woff2'),
+        url('HandjetCircle-Extralight.woff') format('woff'),
+        url('HandjetCircle-Extralight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Handjet Circle Double';
+    src: url('HandjetCircleDouble-Light.eot');
+    src: local('Handjet Circle Double Light'), local('HandjetCircleDouble-Light'),
+        url('HandjetCircleDouble-Light.eot?#iefix') format('embedded-opentype'),
+        url('HandjetCircleDouble-Light.woff2') format('woff2'),
+        url('HandjetCircleDouble-Light.woff') format('woff'),
+        url('HandjetCircleDouble-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
